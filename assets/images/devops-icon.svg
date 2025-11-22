@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer rounded square (same style as other icons) -->
+  <rect x="4" y="4" width="40" height="40" rx="6" stroke="#FFCC67" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></rect>
+
+  <!-- DevOps infinity loop -->
+  <path d="M18 18
+           C14.5 18 12 20.7 12 24
+           C12 27.3 14.5 30 18 30
+           C21.5 30 24 27.3 24 24
+           C24 20.7 26.5 18 30 18
+           C33.5 18 36 20.7 36 24
+           C36 27.3 33.5 30 30 30
+           C26.5 30 24 27.3 24 24" stroke="#FFCC67" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

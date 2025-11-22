@@ -1,0 +1,23 @@
+<svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#FFCC66" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- Brain left side -->
+    <path d="M35 20
+             C20 20, 15 35, 22 45
+             C10 55, 20 75, 35 72
+             C40 85, 55 85, 60 72
+             V20
+             C55 10, 40 10, 35 20Z"></path>
+    
+    <!-- Circuit lines -->
+    <line x1="60" y1="30" x2="90" y2="30"></line>
+    <circle cx="90" cy="30" r="5"></circle>
+
+    <line x1="60" y1="50" x2="90" y2="50"></line>
+    <circle cx="90" cy="50" r="5"></circle>
+
+    <line x1="60" y1="70" x2="90" y2="70"></line>
+    <circle cx="90" cy="70" r="5"></circle>
+
+  </g>
+</svg>
